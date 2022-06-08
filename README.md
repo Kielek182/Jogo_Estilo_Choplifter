@@ -1,4 +1,4 @@
-# Jogo_Nave_DIO
+# Jogo_Estilo_Choplifter
 Jogo desenvolvido com auxilio professor Denilson
 
 ### HTML, CSS, JScript, Jquery collision
